@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Treasure Adventure.CSharp.Plugins", "Island Treasure Adventure.CSharp.Plugins.csproj", "{DCC1D25D-F8AF-2AAF-750F-0C05E85D414D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Island Treasure Adventure.CSharp", "Island Treasure Adventure.CSharp.csproj", "{7378A497-D444-5F48-9950-18784B2B7134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC1D25D-F8AF-2AAF-750F-0C05E85D414D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC1D25D-F8AF-2AAF-750F-0C05E85D414D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC1D25D-F8AF-2AAF-750F-0C05E85D414D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC1D25D-F8AF-2AAF-750F-0C05E85D414D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7378A497-D444-5F48-9950-18784B2B7134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7378A497-D444-5F48-9950-18784B2B7134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7378A497-D444-5F48-9950-18784B2B7134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7378A497-D444-5F48-9950-18784B2B7134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
