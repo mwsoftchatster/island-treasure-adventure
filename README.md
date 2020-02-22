@@ -5,9 +5,9 @@ Rise through the pirate ship ranks. First become a Powder Monkey and then work y
 
 Be nimble... be quick... and make sure to jump over obstacles and enemies to help the pirate get the treasure.
 
-"Island Treasure Adventure" is completely free to play and doesn't have any in-app purchases.
+Island Treasure Adventure is completely free to play and doesn't have any in-app purchases.
 
-"Island Treasure Adventure" features:
+Island Treasure Adventure features:
 
 -> Fabulous animations and in-game graphics
 -> Amazing island beach and island jungle world themes
